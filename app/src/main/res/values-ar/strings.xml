@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">قراءة الارقام</string>
+    <string name="hint">ادخل الرقم الذي تريد ان تقرءه</string>
+    <string name="result">الناتج سوف يظهر هنا </string>
+    <array name="language">
+        <item>قم باختيار اللغة</item>
+        <item>العربية</item>
+        <item>الانجليزيه</item>
+        <item>الصينية</item>
+        <item>الايطالية</item>
+        <item>الالمانية</item>
+        <item>اليابانية</item>
+        <item>الفرنسية</item>
+
+    </array>
+
+    <string name="speed">السرعة</string>
+    <string name="error_message">ادخل رقم هنا</string>
+
+</resources>

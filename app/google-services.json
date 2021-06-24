@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1010884032642",
+    "project_id": "read-values",
+    "storage_bucket": "read-values.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010884032642:android:0a0065d197483d4c941c9b",
+        "android_client_info": {
+          "package_name": "com.example.readvalues"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010884032642-9mpu7loljcsbs5rugev9alpfqriikbn6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV2WtVVcUCRcjQ8c31C5ddfd80CxrTiyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010884032642-9mpu7loljcsbs5rugev9alpfqriikbn6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Read Values</string>
+    <string name="hint">Enter the number that you want to convert it</string>
+    <string name="result">Your Result Appear Here</string>
+    <array name="language">
+        <item>Chose the language</item>
+        <item>Arabic</item>
+        <item>English</item>
+        <item>China</item>
+        <item>Italian</item>
+        <item>German</item>
+        <item>Japanese</item>
+        <item>France</item>
+
+    </array>
+
+    <string name="speed">speed</string>
+    <string name="error_message">enter number here </string>
+</resources>
